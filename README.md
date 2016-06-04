@@ -1,6 +1,6 @@
 # bookmarks-classifier
 
-A classifier for bookmarks file
+A classifier for bookmarks file.
 
 ### Environment
 
