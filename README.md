@@ -13,7 +13,7 @@ A classifier for bookmarks file
 2. Run bookmarks.py with python3 and get a new bookmarks file.
 3. Import the new bookmarks file above to your browser.
 
-### To be Continued
+### To be continued
 
 To achieve a classification algorithm without the configuration file.
 
