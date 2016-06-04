@@ -1,0 +1,8 @@
+{
+    "other":0,
+    "tech":1,
+    "IT":2,
+    "social":3,
+    "blog":4,
+    "shop":5
+}
